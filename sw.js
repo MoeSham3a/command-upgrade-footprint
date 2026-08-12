@@ -1,5 +1,5 @@
 // Bump this on every deploy that changes cached files, to invalidate old caches.
-const CACHE_NAME = 'command-footprint-v4';
+const CACHE_NAME = 'command-footprint-v5';
 
 const PRECACHE_URLS = [
   './',
