@@ -1,5 +1,5 @@
 // Bump this on every deploy that changes cached files, to invalidate old caches.
-const CACHE_NAME = 'command-footprint-v6';
+const CACHE_NAME = 'command-footprint-v7';
 
 const PRECACHE_URLS = [
   './',
@@ -70,6 +70,7 @@ const PRECACHE_URLS = [
   './images/img-8e049f491b4a.png',
   './images/img-8f58bd71cc39.jpg',
   './images/img-8f6209872bbd.png',
+  './images/img-9239366798bd.jpg',
   './images/img-92bffa9dcc64.png',
   './images/img-9ac354d1e0e9.png',
   './images/img-9aebbc9235d1.png',
@@ -110,6 +111,7 @@ const PRECACHE_URLS = [
   './images/img-ec4f0fc76db8.png',
   './images/img-f00bd151883e.png',
   './images/img-f108b587d2d9.png',
+  './images/img-f48ff95aca70.png',
   './images/img-f6256c0f3cd7.png',
   './images/img-f86410904e02.png',
   './images/img-f8c52ebe85e7.png',
